@@ -1,3 +1,3 @@
-# Demo
+# Grade Calculator
 
-Some description!
+Using tkinter
